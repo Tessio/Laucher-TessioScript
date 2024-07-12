@@ -1,11 +1,11 @@
 {
     "VERSION": 1,
     "MESSAGES": {
-      "UPDATED": {
-          message: "El mod menú esta actualizado a la ultima versión."
-      }
-      "NOT_UPDATED": {
-          message: "El mod menú esta desactualizado, descarga la ultima versión."
-      }
-   }
+        "UPDATED": {
+            "message": "El mod menú está actualizado a la última versión."
+        },
+        "NOT_UPDATED": {
+            "message": "El mod menú está desactualizado, descarga la última versión."
+        }
+    }
 }
